@@ -1,6 +1,6 @@
 // const Card = require('../models/cardModel');
 const {deckDecoder} = require('../utils/decodeDeck');
-const {collectionPlayerQuantity} = require('../utils/totalCollection');
+const {finalTotalResult} = require('../utils/totalCollection');
 const fullSet = require('../data/fullset-pt_br.json');
 
 module.exports = {
@@ -14,7 +14,7 @@ module.exports = {
       return res.json({error: 'Invalid Code'});
     }
 
-    const result = collectionPlayerQuantity(decodedDeck);
+    const result = finalTotalResult(decodedDeck);
     
     return res.json(result)
   },

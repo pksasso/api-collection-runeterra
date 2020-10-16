@@ -1,7 +1,7 @@
 const fullSet = require('../data/fullset-pt_br.json');
 const {rarityCost} = require('./rarityCost');
 
-let playerCardsObtained;
+// let playerCardsObtained;
 
 const collectionFullCost = (set) => {
   let totalCost = 0;
@@ -40,9 +40,9 @@ const collectionPlayerQuantity = (playerCollection) => {
     }
   } )
 
-  playerCardsObtained = Object.assign([], playerFullSet);
+  // playerCardsObtained = Object.assign([], playerFullSet);
 
-  return finalTotalResult(playerFullSet);
+  return playerFullSet;
 }
 
 const finalTotalResult = (playerSet) => {
@@ -51,15 +51,16 @@ const finalTotalResult = (playerSet) => {
   let epicMissing = 0;
   let championMissing = 0;
 
+  let playerSetQuantity =  collectionPlayerQuantity(playerSet)
   let totalCost = collectionFullCost(fullSet);
   let totalQuantity = collectionFullQuantity(fullSet);
 
   let totalQuantityMissing = 0;
   let totalCostMissing = 0;
 
-  let percentageMissing = 0;
+  let percentageComplete = 0;
 
-  playerSet.map(card => {
+  playerSetQuantity.map(card => {
     if(card.rarity === 'Common'){
       commonMissing += card.missing;
     }
@@ -98,4 +99,4 @@ const finalTotalResult = (playerSet) => {
 
 
 
-module.exports ={collectionPlayerQuantity};
+module.exports ={finalTotalResult};

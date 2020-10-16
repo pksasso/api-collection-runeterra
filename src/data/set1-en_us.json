@@ -1,0 +1,2249 @@
+[
+  {
+    "cardCode": "01IO012",
+    "name": "Twin Disciplines",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO012.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO015",
+    "name": "Yasuo",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO015.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO020",
+    "name": "Keeper of Masks",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO020.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO045",
+    "name": "Herald of Spring",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO045.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO008",
+    "name": "Fae Bladetwirler",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO008.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO040",
+    "name": "Kinkou Lifeblade",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO040.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO041",
+    "name": "Karma",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO041.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO011",
+    "name": "Recall",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO011.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO009",
+    "name": "Zed",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO009.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO014",
+    "name": "Greenglade Elder",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO014.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO005",
+    "name": "Nimble Poro",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO005.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO044",
+    "name": "Navori Conspirator",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO044.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO023",
+    "name": "Jeweled Protector",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO023.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO029",
+    "name": "Sown Seeds",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO029.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO003",
+    "name": "Death Mark",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO003.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO047",
+    "name": "Shadow Flare",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO047.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO026",
+    "name": "Inspiring Mentor",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO026.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO024",
+    "name": "Dawn and Dusk",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO024.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO028",
+    "name": "Scaled Snapper",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO028.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO057",
+    "name": "Shadow Assassin",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO057.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO032",
+    "name": "Shen",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO032.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO013",
+    "name": "Shadow Fiend",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO013.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO018",
+    "name": "Rush",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO018.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO056",
+    "name": "Yone, Windchaser",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO056.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO016",
+    "name": "Zephyr Sage",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO016.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO036",
+    "name": "Greenglade Lookout",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO036.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO033",
+    "name": "Minah Swiftfoot",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO033.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO001",
+    "name": "Ritual of Renewal",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO001.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO010",
+    "name": "Stand United",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO010.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO022",
+    "name": "Ghost",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO022.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO021",
+    "name": "Windfarer Hatchling",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO021.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO054",
+    "name": "Insight of Ages",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO054.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO027",
+    "name": "Silent Shadowseer",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO027.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO031",
+    "name": "Cloud Drinker",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO031.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO002",
+    "name": "Will of Ionia",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO002.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO017",
+    "name": "Navori Bladescout",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO017.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO042",
+    "name": "Sparring Student",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO042.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO006",
+    "name": "Greenglade Duo",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO006.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO050",
+    "name": "Kinkou Wayfinder",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO050.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO048",
+    "name": "Yusari",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO048.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO007",
+    "name": "Ren Shadowblade",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO007.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO053",
+    "name": "Emerald Awakener",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO053.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO004",
+    "name": "Health Potion",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO004.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO049",
+    "name": "Deny",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO049.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO052",
+    "name": "Navori Highwayman",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO052.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO030",
+    "name": "The Empyrean",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO030.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO019",
+    "name": "Greenglade Caretaker",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO019.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO046",
+    "name": "Steel Tempest",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO046.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO037",
+    "name": "Spirit's Refuge",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO037.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO043",
+    "name": "Rivershaper",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO043.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO038",
+    "name": "Solitary Monk",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO038.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO039",
+    "name": "Shadowshift",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO039.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01IO055",
+    "name": "Ki Guardian",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01IO055.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX020",
+    "name": "Draven",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX020.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX006",
+    "name": "Vladimir",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX006.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX004",
+    "name": "Culling Strike",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX004.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX048",
+    "name": "Crimson Curator",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX048.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX038",
+    "name": "Darius",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX038.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX023",
+    "name": "Arachnoid Host",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX023.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX013",
+    "name": "Decisive Maneuver",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX013.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX046",
+    "name": "Arachnoid Sentry",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX046.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX047",
+    "name": "Transfusion",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX047.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX040",
+    "name": "Legion Saboteur",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX040.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX025",
+    "name": "Brothers' Bond",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX025.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX055",
+    "name": "House Spider",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX055.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX030",
+    "name": "Crimson Disciple",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX030.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX007",
+    "name": "Arena Battlecaster",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX007.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX021",
+    "name": "Legion Marauder",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX021.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX009",
+    "name": "Crowd Favorite",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX009.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX011",
+    "name": "Whirling Death",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX011.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX053",
+    "name": "Reckoning",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX053.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX054",
+    "name": "Intimidating Roar",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX054.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX029",
+    "name": "Legion Veteran",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX029.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX014",
+    "name": "Shiraza the Blade",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX014.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX042",
+    "name": "Katarina",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX042.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX051",
+    "name": "Captain Farron",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX051.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX012",
+    "name": "Legion Rearguard",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX012.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX043",
+    "name": "Blade's Edge",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX043.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX037",
+    "name": "Legion Grenadier",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX037.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX010",
+    "name": "Legion General",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX010.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX017",
+    "name": "Legion Drummer",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX017.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX003",
+    "name": "Arena Bookie",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX003.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX039",
+    "name": "Vision",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX039.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX041",
+    "name": "Trifarian Shieldbreaker",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX041.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX036",
+    "name": "Minotaur Reckoner",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX036.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX044",
+    "name": "Battering Ram",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX044.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX005",
+    "name": "Crimson Aristocrat",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX005.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX016",
+    "name": "Trifarian Hopeful",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX016.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX019",
+    "name": "Might",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX019.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX015",
+    "name": "Precious Pet",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX015.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX050",
+    "name": "Death Lotus",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX050.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX056",
+    "name": "Shunpo",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX056.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX033",
+    "name": "Trifarian Assessor",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX033.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX052",
+    "name": "Blood for Blood",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX052.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX045",
+    "name": "Savage Reckoner",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX045.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX031",
+    "name": "Trifarian Gloryseeker",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX031.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX002",
+    "name": "Decimate",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX002.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX008",
+    "name": "Basilisk Rider",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX008.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX034",
+    "name": "Affectionate Poro",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX034.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX035",
+    "name": "Draven's Biggest Fan",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX035.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX026",
+    "name": "Reckless Trifarian",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX026.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX027",
+    "name": "Elixir of Wrath",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX027.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX022",
+    "name": "Noxian Guillotine",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX022.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX032",
+    "name": "Crimson Awakener",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX032.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX024",
+    "name": "Kato The Arm",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX024.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01NX049",
+    "name": "Guile",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01NX049.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE031",
+    "name": "Dawnspeakers",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE031.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE022",
+    "name": "Lucian",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE022.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE019",
+    "name": "Mobilize",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE019.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE042",
+    "name": "Lux",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE042.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE010",
+    "name": "Swiftwing Lancer",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE010.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE020",
+    "name": "Vanguard Defender",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE020.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE034",
+    "name": "Battlesmith",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE034.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE002",
+    "name": "Tianna Crownguard",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE002.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE012",
+    "name": "Garen",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE012.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE017",
+    "name": "Stand Alone",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE017.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE045",
+    "name": "Fiora",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE045.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE052",
+    "name": "Brightsteel Formation",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE052.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE021",
+    "name": "Relentless Pursuit",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE021.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE025",
+    "name": "Detain",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE025.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE007",
+    "name": "Judgment",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE007.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE055",
+    "name": "Laurent Duelist",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE055.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE048",
+    "name": "Mageseeker Inciter",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE048.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE001",
+    "name": "Vanguard Bannerman",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE001.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE043",
+    "name": "War Chefs",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE043.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE049",
+    "name": "Plucky Poro",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE049.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE053",
+    "name": "Laurent Chevalier",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE053.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE033",
+    "name": "Remembrance",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE033.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE044",
+    "name": "Redoubled Valor",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE044.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE024",
+    "name": "Mageseeker Conservator",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE024.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE004",
+    "name": "Silverwing Vanguard",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE004.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE011",
+    "name": "Laurent Protege",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE011.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE047",
+    "name": "Succession",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE047.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE046",
+    "name": "Vanguard Lookout",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE046.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE050",
+    "name": "Purify",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE050.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE040",
+    "name": "Mageseeker Persuader",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE040.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE036",
+    "name": "Vanguard Squire",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE036.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE037",
+    "name": "Riposte",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE037.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE014",
+    "name": "Reinforcements",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE014.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE015",
+    "name": "Radiant Guardian",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE015.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE003",
+    "name": "Laurent Bladekeeper",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE003.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE026",
+    "name": "Single Combat",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE026.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE032",
+    "name": "Prismatic Barrier",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE032.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE027",
+    "name": "En Garde",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE027.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE006",
+    "name": "Vanguard Sergeant",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE006.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE038",
+    "name": "Senna, Sentinel of Light",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE038.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE041",
+    "name": "Back to Back",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE041.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE035",
+    "name": "For Demacia!",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE035.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE018",
+    "name": "Radiant Strike",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE018.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE009",
+    "name": "Brightsteel Protector",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE009.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE039",
+    "name": "Cithria of Cloudfield",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE039.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE056",
+    "name": "Vanguard Firstblade",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE056.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE029",
+    "name": "Fleetfeather Tracker",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE029.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE028",
+    "name": "Vanguard Cavalry",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE028.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE013",
+    "name": "Chain Vest",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE013.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE023",
+    "name": "Mageseeker Investigator",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE023.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE051",
+    "name": "Cithria the Bold",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE051.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE054",
+    "name": "Vanguard Redeemer",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE054.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01DE030",
+    "name": "Silverwing Diver",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01DE030.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ040",
+    "name": "Jinx",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ040.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ008",
+    "name": "Teemo",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ008.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ056",
+    "name": "Heimerdinger",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ056.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ013",
+    "name": "Augmented Experimenter",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ013.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ007",
+    "name": "Parade Electrorig",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ007.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ018",
+    "name": "Academy Prodigy",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ018.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ019",
+    "name": "Eager Apprentice",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ019.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ025",
+    "name": "Puffcap Peddler",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ025.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ048",
+    "name": "Corina Veraza",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ048.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ028",
+    "name": "Jury-Rig",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ028.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ050",
+    "name": "Rising Spell Force",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ050.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ054",
+    "name": "Boomcrew Rookie",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ054.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ030",
+    "name": "Shady Character",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ030.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ030T1",
+    "name": "Impersonate",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ030T1.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ017",
+    "name": "Used Cask Salesman",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ017.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ038",
+    "name": "Sump Dredger",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ038.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ036",
+    "name": "Ezreal",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ036.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ035",
+    "name": "Jae Medarda",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ035.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ010",
+    "name": "Mushroom Cloud",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ010.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ045",
+    "name": "Zaunite Urchin",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ045.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ002",
+    "name": "Back Alley Barkeep",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ002.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ004",
+    "name": "Trueshot Barrage",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ004.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ020",
+    "name": "Daring Poro",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ020.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ046",
+    "name": "Counterfeit Copies",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ046.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ052",
+    "name": "Mystic Shot",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ052.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ033",
+    "name": "Purrsuit of Perfection",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ033.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ005",
+    "name": "Hextech Transmogulator",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ005.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ021",
+    "name": "Midenstokke Henchmen",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ021.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ031",
+    "name": "Statikk Shock",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ031.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ059",
+    "name": "Golden Crushbot",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ059.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ001",
+    "name": "Rummage",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ001.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ057",
+    "name": "Scrapdash Assembly",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ057.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ027",
+    "name": "Thermogenic Beam",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ027.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ055",
+    "name": "Astute Academic",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ055.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ014",
+    "name": "Unlicensed Innovation",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ014.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ034",
+    "name": "Sumpsnipe Scavenger",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ034.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ060",
+    "name": "Accelerated Purrsuit",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ060.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ003",
+    "name": "Assembly Bot",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ003.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ044",
+    "name": "Chempunk Shredder",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ044.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ029",
+    "name": "Eminent Benefactor",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ029.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ051",
+    "name": "Funsmith",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ051.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ023",
+    "name": "Professor von Yipp",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ023.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ024",
+    "name": "Unstable Voltician",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ024.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ049",
+    "name": "Progress Day!",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ049.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ006",
+    "name": "Plaza Guardian",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ006.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ053",
+    "name": "Clump of Whumps",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ053.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ012",
+    "name": "Flame Chompers!",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ012.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ039",
+    "name": "Get Excited!",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ039.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ016",
+    "name": "Flash of Brilliance",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ016.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ058",
+    "name": "Chump Whump",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ058.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ009",
+    "name": "Amateur Aeronaut",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ009.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ042",
+    "name": "Intrepid Mariner",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ042.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ026",
+    "name": "Sumpworks Map",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ026.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ043",
+    "name": "Chempunk Pickpocket",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ043.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01PZ047",
+    "name": "Caustic Cask",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01PZ047.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR024",
+    "name": "Anivia",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR024.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR024T5",
+    "name": "Glacial Storm",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR024T5.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR039",
+    "name": "Tryndamere",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR039.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR006",
+    "name": "Iceborn Legacy",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR006.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR022",
+    "name": "Omen Hawk",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR022.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR042",
+    "name": "Harsh Winds",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR042.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR009",
+    "name": "Braum",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR009.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR018",
+    "name": "Rimefang Wolf",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR018.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR036",
+    "name": "Avarosan Marksman",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR036.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR045",
+    "name": "Scarthane Steffen",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR045.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR008",
+    "name": "Lonely Poro",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR008.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR055",
+    "name": "Shatter",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR055.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR038",
+    "name": "Ashe",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR038.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR029",
+    "name": "Entreat",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR029.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR035",
+    "name": "Unscarred Reaver",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR035.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR020",
+    "name": "Avalanche",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR020.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR014",
+    "name": "Yeti Yearling",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR014.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR049",
+    "name": "Stalking Wolf",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR049.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR037",
+    "name": "Avarosan Outriders",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR037.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR026",
+    "name": "Alpha Wildclaw",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR026.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR030",
+    "name": "Brittle Steel",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR030.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR013",
+    "name": "Scarmother Vrynna",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR013.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR019",
+    "name": "Winter's Breath",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR019.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR041",
+    "name": "Avarosan Hearthguard ",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR041.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR025",
+    "name": "Poro Herder",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR025.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR054",
+    "name": "Scarmaiden Reaver",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR054.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR021",
+    "name": "Tarkaz the Tribeless",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR021.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR043",
+    "name": "Heart of the Fluft",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR043.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR033",
+    "name": "Wyrding Stones",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR033.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR011",
+    "name": "Icevale Archer",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR011.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR050",
+    "name": "Kindly Tavernkeeper",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR050.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR052",
+    "name": "She Who Wanders",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR052.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR016",
+    "name": "Poro Snax",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR016.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR005",
+    "name": "Battle Fury",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR005.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR023",
+    "name": "Warmother's Call",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR023.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR047",
+    "name": "Feral Mystic",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR047.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR056",
+    "name": "Icy Yeti",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR056.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR027",
+    "name": "Bull Elnuk",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR027.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR057",
+    "name": "Pack Mentality",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR057.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR004",
+    "name": "Elixir of Iron",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR004.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR048",
+    "name": "Avarosan Trapper",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR048.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR017",
+    "name": "Troop of Elnuks",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR017.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR046",
+    "name": "Take Heart",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR046.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR012",
+    "name": "Catalyst of Aeons",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR012.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR040",
+    "name": "Rimetusk Shaman",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR040.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR031",
+    "name": "Ancient Yeti",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR031.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR053",
+    "name": "Mighty Poro",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR053.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR010",
+    "name": "Bloodsworn Pledge",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR010.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR001",
+    "name": "Flash Freeze",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR001.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR032",
+    "name": "Starlit Seer",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR032.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR051",
+    "name": "Tall Tales",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR051.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR034",
+    "name": "They Who Endure",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR034.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR007",
+    "name": "Babbling Bjerg",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR007.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01FR003",
+    "name": "Avarosan Sentry",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01FR003.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI038",
+    "name": "Phantom Prankster",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI038.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI049",
+    "name": "Glimpse Beyond",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI049.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI053",
+    "name": "Elise",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI053.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI057",
+    "name": "Ancient Crocolith",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI057.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI023",
+    "name": "Soul Shepherd",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI023.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI010",
+    "name": "Onslaught of Shadows",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI010.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI042",
+    "name": "Hecarim",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI042.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI027",
+    "name": "Fresh Offerings",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI027.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI048",
+    "name": "Cursed Keeper",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI048.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI018",
+    "name": "Scribe of Sorrows",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI018.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI030",
+    "name": "Kalista",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI030.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI035",
+    "name": "Rhasa the Sunderer",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI035.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI005",
+    "name": "Scuttlegeist",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI005.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI037",
+    "name": "Sinister Poro",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI037.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI052",
+    "name": "Thresh",
+    "rarity": "Champion",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI052.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI033",
+    "name": "Commander Ledros",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI033.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI003",
+    "name": "The Harrowing",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI003.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI041",
+    "name": "The Undying",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI041.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI045",
+    "name": "Absorb Soul",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI045.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI036",
+    "name": "Crawling Sensation",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI036.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI051",
+    "name": "Tortured Prodigy",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI051.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI012",
+    "name": "Oblivious Islander",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI012.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI031",
+    "name": "Iron Harbinger",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI031.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI034",
+    "name": "Black Spear",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI034.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI043",
+    "name": "Hapless Aristocrat",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI043.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI009",
+    "name": "Stirred Spirits",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI009.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI007",
+    "name": "Haunted Relic",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI007.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI056",
+    "name": "Frenzied Skitterer",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI056.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI001",
+    "name": "Vengeance",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI001.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI019",
+    "name": "The Box",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI019.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI011",
+    "name": "Ravenous Butcher",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI011.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI014",
+    "name": "Mistwraith",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI014.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI022",
+    "name": "Mark of the Isles",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI022.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI006",
+    "name": "Possession",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI006.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI028",
+    "name": "Splinter Soul",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI028.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI025",
+    "name": "Atrocity",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI025.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI046",
+    "name": "Mist's Call",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI046.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI050",
+    "name": "Brood Awakening",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI050.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI016",
+    "name": "Wraithcaller",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI016.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI021",
+    "name": "Shark Chariot",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI021.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI032",
+    "name": "Chronicler of Ruin",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI032.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI058",
+    "name": "Ethereal Remitter",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI058.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI054",
+    "name": "Grasp of the Undying",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI054.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI044",
+    "name": "Spectral Matron",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI044.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI039",
+    "name": "Arachnoid Horror",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI039.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI020",
+    "name": "The Rekindler",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI020.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI029",
+    "name": "Withering Wail",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI029.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI004",
+    "name": "Darkwater Scourge",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI004.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI026",
+    "name": "Warden's Prey",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI026.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI040",
+    "name": "Vile Feast",
+    "rarity": "Common",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI040.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI015",
+    "name": "The Ruination",
+    "rarity": "Epic",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI015.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI055",
+    "name": "Soulgorger",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI055.png",
+    "set": "Set1"
+  },
+  {
+    "cardCode": "01SI047",
+    "name": "Fading Memories",
+    "rarity": "Rare",
+    "asset": "http://dd.b.pvp.net/1_12_0/set1/en_us/img/cards/01SI047.png",
+    "set": "Set1"
+  }
+]

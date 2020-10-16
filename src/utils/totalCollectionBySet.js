@@ -1,10 +1,9 @@
 const fullSet = require('../data/fullset-pt_br.json');
-const {collectionPlayerQuantity} = require('./totalCollection');
 
 const totalSetsCount = (set) => {
   let setsSize = 0;
   while (true) {
-    const found = fullSet.find(card => card.set === `Set${setsSize+1}`);
+    const found = set.find(card => card.set === `Set${setsSize+1}`);
     if(found){
       setsSize += 1;
     }else{
@@ -30,9 +29,7 @@ const collectionMissing = (playerSet) => {
     if(original.missing > 0) {
       playerMissing.push(original);
     }
-
-  })
-
+  });
   return playerMissing;
 }
 
@@ -47,14 +44,12 @@ const separateBySet = (set) => {
       if(card.set === `Set${setNumber+1}`){
         temp.push(card);
       }
-    })
+    });
     separetedSet.push(temp);
     temp = [];
   }
 
   return separetedSet;
 }
-
-
 
 module.exports = { collectionMissing, separateBySet };

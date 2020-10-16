@@ -79,7 +79,7 @@ const finalTotalResult = (playerSet) => {
   totalCostMissing = (rarityCost.Common * commonMissing) + (rarityCost.Rare * rareMissing) + 
   (rarityCost.Epic * epicMissing) + (rarityCost.Champion * championMissing)
 
-  percentageMissing = parseFloat(((totalCost-totalCostMissing)/(totalCost/100)).toFixed(1));
+  percentageComplete = parseFloat(((totalCost-totalCostMissing)/(totalCost/100)).toFixed(1));
 
   const result = {
     totalCost,
@@ -90,7 +90,7 @@ const finalTotalResult = (playerSet) => {
     rareMissing,
     epicMissing,
     championMissing,
-    percentageMissing,
+    percentageComplete,
   }
 
   return result;

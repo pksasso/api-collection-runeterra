@@ -1,7 +1,7 @@
 {
   "name": "api-collection-runeterra",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "src/server.js",
   "repository": "https://github.com/pksasso/api-collection-runeterra.git",
   "author": "Patrick <patricksassorj@gmail.com>",
   "license": "MIT",

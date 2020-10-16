@@ -1,11 +1,22 @@
-const Card = require('../models/cardModel');
+const fullSet = require('../data/fullset-pt_br.json');
+const {collectionMissing, separateBySet} = require('../utils/totalCollectionBySet');
+const {deckDecoder} = require('../utils/decodeDeck');
 
 module.exports = {
 
   async index (req, res) {
-    const set1 = await Card.find({set: 'Set1'});
-    const set2 = await Card.find({set: 'Set2'});
-    const set3 = await Card.find({set: 'Set3'});
-    return res.json([set1,set2,set3])
+    const code = req.query.code;
+    let decodedDeck;
+    
+    try{
+      decodedDeck = deckDecoder(code);
+    }catch(err){
+      return res.json({error: 'Invalid Code'});
+    }
+    
+    const missing = collectionMissing(decodedDeck);
+    const separeted = separateBySet(missing);
+
+    return res.json(separeted);
   },
 }

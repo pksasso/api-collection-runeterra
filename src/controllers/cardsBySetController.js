@@ -14,8 +14,8 @@ module.exports = {
       return res.json({error: 'Invalid Code'});
     }
     
-    const missing = collectionMissing(decodedDeck);
-    const separeted = separateBySet(missing);
+    const missing = collectionMissing(decodedDeck, fullSet);
+    const separeted = separateBySet(missing, fullSet);
 
     return res.json(separeted);
   },

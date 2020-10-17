@@ -1,4 +1,3 @@
-const fullSet = require('../data/fullset-pt_br.json');
 
 const totalSetsCount = (set) => {
   let setsSize = 0;
@@ -13,7 +12,7 @@ const totalSetsCount = (set) => {
   return setsSize
 }
 
-const collectionMissing = (playerSet) => {
+const collectionMissing = (playerSet, fullSet) => {
   let playerMissing = [];
 
   fullSet.map(original => {
@@ -33,7 +32,7 @@ const collectionMissing = (playerSet) => {
   return playerMissing;
 }
 
-const separateBySet = (set) => {
+const separateBySet = (set, fullSet) => {
   let temp = [];
   let separetedSet = [];
 

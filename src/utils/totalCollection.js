@@ -97,6 +97,4 @@ const finalTotalResult = (playerSet) => {
   return result;
 }
 
-
-
-module.exports ={finalTotalResult};
+module.exports ={finalTotalResult, collectionPlayerQuantity, collectionFullQuantity, collectionFullCost};

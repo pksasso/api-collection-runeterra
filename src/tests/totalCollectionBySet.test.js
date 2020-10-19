@@ -1,6 +1,6 @@
 const rewire = require('rewire');
 
-const {separateBySet, collectionMissing} = require('../utils/totalCollectionBySet');
+const {separateBySet, collectionMissing} = require('../utils/missingBySet');
 
 const totalCollectionBySet = rewire('../utils/totalCollectionBySet.js');
 const totalSetsCount = totalCollectionBySet.__get__('totalSetsCount');

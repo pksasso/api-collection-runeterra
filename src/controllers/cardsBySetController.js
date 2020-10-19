@@ -1,5 +1,5 @@
 const fullSet = require('../data/fullset-pt_br.json');
-const {collectionMissing, separateBySet} = require('../utils/totalCollectionBySet');
+const {collectionMissing, separateBySet} = require('../utils/missingBySet');
 const {deckDecoder} = require('../utils/decodeDeck');
 
 module.exports = {

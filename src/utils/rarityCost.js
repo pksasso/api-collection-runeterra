@@ -5,4 +5,4 @@ const rarityCost = {
   "Champion": 3000
 };
 
-module.exports = { rarityCost };
+module.exports =  rarityCost ;

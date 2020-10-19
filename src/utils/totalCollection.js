@@ -1,5 +1,5 @@
 const fullSet = require('../data/fullset-pt_br.json');
-const {rarityCost} = require('./rarityCost');
+const rarityCost = require('./rarityCost');
 
 // let playerCardsObtained;
 

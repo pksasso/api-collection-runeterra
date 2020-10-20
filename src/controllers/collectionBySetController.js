@@ -1,5 +1,6 @@
 const fullSet = require('../data/fullset-pt_br.json');
-const {collectionMissing, separateBySet} = require('../utils/missingBySet');
+const {totalCountSeparatedBySet} = require('../utils/missingBySet');
+const {collectionPlayerQuantity} = require('../utils/totalCollection');
 const {deckDecoder} = require('../utils/decodeDeck');
 
 module.exports = {
@@ -13,10 +14,8 @@ module.exports = {
     }catch(err){
       return res.json({error: 'Invalid Code'});
     }
-    
-    const missing = collectionMissing(decodedDeck, fullSet);
-    const separeted = separateBySet(missing, fullSet);
+    const result = totalCountSeparatedBySet(collectionPlayerQuantity(decodedDeck), fullSet);
 
-    return res.json(separeted);
+    return res.json(result);
   },
 }

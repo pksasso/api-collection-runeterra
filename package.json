@@ -7,10 +7,13 @@
   "license": "MIT",
   "scripts": {
     "start": "node src/server.js",
-    "dev": "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "test": "jest"
   },
   "devDependencies": {
-    "nodemon": "^2.0.5"
+    "jest": "^26.5.3",
+    "nodemon": "^2.0.5",
+    "rewire": "^5.0.0"
   },
   "dependencies": {
     "cors": "^2.8.5",

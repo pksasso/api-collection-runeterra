@@ -76,6 +76,25 @@ const removeObtained = (playerSet, fullSet ) => {
   return organizedSet;
 }
 
+const sumMissingCards = (cardSet) => {
+  return cardSet.reduce((a, b) => (a + b.missing) ,0);
+}
+
+const sumMissingCost = (common, rare, epic, champion, setNumber) => {
+  return common[setNumber] * rarityCost.Common + rare[setNumber] * rarityCost.Rare + 
+  epic[setNumber] * rarityCost.Epic + 
+  champion[setNumber] * rarityCost.Champion;;
+}
+
+const sumMissingQuatity = (common, rare, epic, champion, setNumber) => {
+  return common[setNumber]+
+  rare[setNumber]+ epic[setNumber]+ champion[setNumber]
+}
+
+const percentageSet = (missing, total) => {
+  return parseFloat(((total-missing)/(total/100)).toFixed(1));
+}
+
 const totalCountSeparatedBySet = (playerSet, fullSet) => {
   const maxSetNumber = totalSetsCount(fullSet);
   const separetedSet = separateBySet(playerSet, fullSet)
@@ -84,20 +103,13 @@ const totalCountSeparatedBySet = (playerSet, fullSet) => {
   let totalSetQuantity = [];
   let totalSetCost = []; 
 
-  let commonMissing = [];
-  let rareMissing = [];
-  let epicMissing = [];
-  let championMissing = [];
-
   let commonMissingQuantity = [];
   let rareMissingQuantity = [];
   let epicMissingQuantity = [];
   let championMissingQuantity = [];
  
   let setMissingQuantity = [];
-  let setQuantity = [];
-  let setQuantityMissing = [];
-  let setCost = [];
+  let setMissingCost = [];
 
   let setPercentageComplete = [];
 
@@ -124,11 +136,23 @@ const totalCountSeparatedBySet = (playerSet, fullSet) => {
         championTemp.push(card);
       }
     })
+    
+    commonMissingQuantity.push(sumMissingCards(commonTemp, setNumber));
+    rareMissingQuantity.push(sumMissingCards(rareTemp, setNumber));
+    epicMissingQuantity.push(sumMissingCards(epicTemp, setNumber));
+    championMissingQuantity.push(sumMissingCards(championTemp, setNumber));
+    
+    setMissingCost.push(sumMissingCost(commonMissingQuantity, rareMissingQuantity, 
+      epicMissingQuantity, championMissingQuantity, setNumber));
+      
+    setMissingQuantity.push(sumMissingQuatity(commonMissingQuantity,
+      rareMissingQuantity, epicMissingQuantity, championMissingQuantity, setNumber));
 
-    commonMissing.push(commonTemp);
-    rareMissing.push(rareTemp);
-    epicMissing.push(epicTemp);
-    championMissing.push(championTemp);
+    totalSetQuantity.push(collectionFullQuantity(separetedSet[setNumber]));
+
+    totalSetCost.push(collectionFullCost(separetedSet[setNumber]));
+   
+    setPercentageComplete.push(percentageSet(setMissingCost[setNumber], totalSetCost[setNumber]))
 
     commonTemp =[];
     rareTemp =[];
@@ -138,32 +162,13 @@ const totalCountSeparatedBySet = (playerSet, fullSet) => {
   }
 
   for(let setNumber = 0; setNumber < maxSetNumber ; setNumber++){
-    
-    commonMissingQuantity.push(commonMissing[setNumber].reduce((a, b) => (a + b.missing) ,0));
-    rareMissingQuantity.push(rareMissing[setNumber].reduce((a, b) => (a + b.missing) ,0));
-    epicMissingQuantity.push(epicMissing[setNumber].reduce((a, b) => (a + b.missing) ,0));
-    championMissingQuantity.push(championMissing[setNumber].reduce((a, b) => (a + b.missing) ,0));
-    
-    setMissingQuantity.push(commonMissingQuantity[setNumber]+
-      rareMissingQuantity[setNumber]+ epicMissingQuantity[setNumber]+ championMissingQuantity[setNumber]);
-
-    setCost.push(commonMissingQuantity[setNumber] * rarityCost.Common + 
-      rareMissingQuantity[setNumber] * rarityCost.Rare + 
-      epicMissingQuantity[setNumber] * rarityCost.Epic + 
-      championMissingQuantity[setNumber] * rarityCost.Champion)
-    
-    totalSetQuantity.push(collectionFullQuantity(separetedSet[setNumber]));
-
-    totalSetCost.push(collectionFullCost(separetedSet[setNumber]));
-  }
-
-  for(let setNumber = 0; setNumber < maxSetNumber ; setNumber++){
     let resultTemp = {
       setNumber : setNumber+1,
       totalQuantity: totalSetQuantity[setNumber],
-      totalCost: setCost[setNumber],
+      totalCost: totalSetCost[setNumber],
       totalQuantityMissing: setMissingQuantity[setNumber],
-      totalCostMissing: setCost[setNumber],
+      totalCostMissing: setMissingCost[setNumber],
+      percentageComplete: setPercentageComplete[setNumber],
       commonMissing: commonMissingQuantity[setNumber],
       rareMissing: rareMissingQuantity[setNumber],
       epicMissing: epicMissingQuantity[setNumber],

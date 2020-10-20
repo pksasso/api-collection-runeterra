@@ -20,13 +20,13 @@ const collectionMissing = (playerSet, fullSet) => {
   let playerMissing = [];
 
   fullSet.map(original => {
-    const finded = playerSet.find(playerCard => original.cardCode === playerCard.code);
-    if(!finded){
+    const found = playerSet.find(playerCard => original.cardCode === playerCard.code);
+    if(!found){
       original.count = 0;
       original.missing = 3;
     }else{
-      original.count = finded.count;
-      original.missing = 3 - finded.count;
+      original.count = found.count;
+      original.missing = 3 - found.count;
     }
 
     if(original.missing > 0) {
